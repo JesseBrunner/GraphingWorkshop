@@ -150,7 +150,7 @@ It is possible to construct these graphs with base plotting functions in R, but 
 # load the packages required
 library(tidyverse)
 ```
-Next we need to load in the data (found )
+Next we need to load in the data (found at https://github.com/JesseBrunner/GraphingWorkshop)
 ```{r, message=FALSE, results='hide'}
 df1 <- read_csv("Example1.csv")
 df2 <- read_csv("Example2A.csv")
